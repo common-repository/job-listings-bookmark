@@ -1,0 +1,13 @@
+.jlt-bookmark-label {
+    margin-left: 5px;
+}
+
+.jlt-bookmark-result {
+    font-size: 13px;
+    margin: 10px 0;
+    color: #337ab7;
+}
+
+.jlt-bookmark-result .error-response {
+    color: #f1322f;
+}
